@@ -13,7 +13,7 @@ and input device. Works with PipeWire or PulseAudio through `pactl`.
 
 ```sh
 sudo apt install python3-gi gir1.2-gtk-3.0 gir1.2-ayatanaappindicator3-0.1 pulseaudio-utils
-git clone <this repo> && cd audio-tray
+git clone https://github.com/jamescrg/audio-tray.git && cd audio-tray
 ./install.sh
 ```
 
