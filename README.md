@@ -27,3 +27,7 @@ the widget. To run it without installing: `./audio-tray.py`.
 - The menu puts outputs last, which is the shortest reach from a bottom panel.
 - Built on Cinnamon; it should work on any desktop whose tray supports
   AppIndicator/StatusNotifier icons.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
